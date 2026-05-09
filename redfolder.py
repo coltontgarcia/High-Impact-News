@@ -7,8 +7,8 @@ import pytz
 # ══════════════════════════════════════════════════
 #   PASTE YOUR KEYS HERE — only thing you need to change
 # ══════════════════════════════════════════════════
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
-FINNHUB_API_KEY     = "YOUR_FINNHUB_API_KEY"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1502599070131425393/3KVYRXw-TPp3YjGRqJcQY5k58ZALu02EXQnggFa3VbPBPWwL7wWyXg7NYaCeUAV-VMx_"
+FINNHUB_API_KEY     = "d7vfof9r01qldb7frch0d7vfof9r01qldb7frchg"
 # ══════════════════════════════════════════════════
 
 MOUNTAIN_TZ = pytz.timezone("America/Denver")
